@@ -6,10 +6,10 @@ Um clássico jogo da cobrinha desenvolvido em Python, utilizando a biblioteca Py
 
 ## ✨ Funcionalidades
 
-**Movimentação Clássica:** Controle a cobrinha com as setas do teclado. 
-**Comer Alvos:** A cobrinha cresce ao colidir com os alvos.
-**Alvos com Trajetória:** Os alvos se movem seguindo caminhos predefinidos do arquivo `Paths_D.txt`, adicionando um desafio dinâmico.
-**Travessia de Tela:** Quando a cobrinha sai por uma borda da janela, ela reaparece na borda oposta (característica clássica do jogo).
+* **Movimentação Clássica:** Controle a cobrinha com as setas do teclado. 
+* **Comer Alvos:** A cobrinha cresce ao colidir com os alvos.
+* **Alvos com Trajetória:** Os alvos se movem seguindo caminhos predefinidos do arquivo `Paths_D.txt`, adicionando um desafio dinâmico.
+* **Travessia de Tela:** Quando a cobrinha sai por uma borda da janela, ela reaparece na borda oposta (característica clássica do jogo).
 
 ## 🚀 Como Executar
 
