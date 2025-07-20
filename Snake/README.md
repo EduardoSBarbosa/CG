@@ -1,6 +1,6 @@
 # 🐍 Jogo da Cobrinha com OpenGL
 
-Um clássico jogo da cobrinha desenvolvido em Python, utilizando a biblioteca Pygame e renderização com OpenGL.Este projeto oferece uma experiência de jogo tradicional com um toque visual diferenciado e alvos com movimento dinâmico.
+Um clássico jogo da cobrinha desenvolvido em Python, utilizando a biblioteca Pygame e renderização com OpenGL. Este projeto oferece uma experiência de jogo tradicional com um toque visual diferenciado e alvos com movimento dinâmico.
 
 **Descrição:** A simulação apresenta uma cobrinha controlada pelo jogador via teclado. Alvos se movem em trajetórias predefinidas lidas do arquivo `Paths_D.txt` (Arquivo de texto com coordenadas (x,y,frame)). Ao colidir com um alvo, a cobrinha o absorve, cresce e sua pontuação é incrementada. O jogo termina ao final dos frames e exibe o score final no console.
 
