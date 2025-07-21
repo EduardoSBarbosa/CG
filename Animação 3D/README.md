@@ -42,7 +42,8 @@ Certifique-se de que os seguintes arquivos estejam no mesmo diretório:
 
 * **main.py** (Script principal da aplicação) 
 * **Objeto3D.py** (Define a classe para carregar e manipular modelos 3D) 
-* **Ponto.py** (Define a classe para pontos 3D e operações geométricas) 
+* **Ponto.py** (Define a classe para pontos 3D e operações geométricas)
+* **Linha.py** (Define a classe para representar segmentos de reta) 
 * **Human_Head.obj** (Modelo 3D da cabeça, base para as partículas) 
 * **Numb.mp3** (Arquivo de música de fundo) 
 
